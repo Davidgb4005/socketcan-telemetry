@@ -1,0 +1,4 @@
+# Demonstration protocol: little-endian voltage/current and temperature/SOC.
+(1.000000) can0 180#393060EA00000000
+(1.100000) can0 181#FB005700
+(1.200000) can0 321#DEADBEEF
